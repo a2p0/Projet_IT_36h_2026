@@ -243,7 +243,7 @@ Ce projet éducatif est sous licence **Creative Commons BY-SA 4.0** :
 
 ## 📧 Contact
 
-Pour toute question ou suggestion : [via GitHub Issues](../../issues)
+Pour toute question ou suggestion : [via GitHub Issues](https://github.com/a2p0/Projet_IT_36h_2026/issues)
 
 ---
 
