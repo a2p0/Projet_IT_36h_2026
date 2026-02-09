@@ -1,0 +1,49 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers cachés
+.Trash-*
+.cache/
+
+# Fichiers temporaires
+*~
+*.tmp
+*.swp
+*.bak
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code (sauf settings locaux si vous voulez les partager)
+.claude/sessions/
+.claude/cache/
+
+# Node modules (si utilisation Node-RED local)
+node_modules/
+
+
+# Environnement Python (si scripts Python)
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers de build/compilation
+*.o
+*.out
+build/
+dist/
+
+# Logs
+*.log
+
+# Fichiers sensibles (à adapter selon vos besoins)
+# secrets.md
+# credentials.*
+
+# Archives volumineuses (décommenter si nécessaire)
+*.zip
+*.tar.gz
+*.pdf
